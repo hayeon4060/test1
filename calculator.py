@@ -5,5 +5,9 @@ class calculator:
     def subtract(self, a,b):
         print('a - b = ',a-b)
 
-    def main():
-        print('main')
+    def multiply(self, a,b):
+        print('a * b = ',a*b)    
+
+def main():
+    print('main')
+
