@@ -10,4 +10,5 @@ class calculator:
 
 def main():
     print('main')
-
+    print('hihihihihi my name is hayeon')
+    print('4')
